@@ -4,7 +4,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  color: #ffffff;
+  color: #000000;
   padding-bottom: 75px; }
   @media (min-width: 768px) {
     body {
@@ -19,10 +19,10 @@ body {
   padding-top: 35px;
   padding-bottom: 35px; }
   .navbar-dark .navbar-text {
-    color: #ffffff;
+    color: #000000;
     opacity: 1;
     padding: 0 20px;
-    border-right: 1px solid #ffffff;
+    border-right: 1px solid #000000;
     font-size: 18px;
     font-weight: bold;
     text-align: center; }
@@ -60,15 +60,15 @@ p {
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  background-color: #ffffff;
-  color: #000000;
+  background-color: #000000;
+  color: #ffffff;
   margin-right: 16px;
   transition: all 0.3s ease-in-out; }
   .footer-social-links .social-link:last-child {
     margin-right: 0; }
   .footer-social-links .social-link:hover {
     text-decoration: none;
-    background-color: #000000;
-    color: #ffffff; }
+    background-color: #ffffff;
+    color: #000000; }
 
 /*# sourceMappingURL=bd-coming-soon.css.map */
